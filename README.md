@@ -1,5 +1,3 @@
-# Ariel Kollross
-
 <h1 align="center">Olá 👋, Sou o Ariel Kollross</h1>
 <h3 align="center">Programador Fullstack</h3>
 
